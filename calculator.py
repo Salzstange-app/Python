@@ -30,3 +30,8 @@ while(True):
     if close.upper() == "N":
         print("TaschenRechner aus")
         break
+
+
+
+#
+# # :)
